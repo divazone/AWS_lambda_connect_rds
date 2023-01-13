@@ -1,1 +1,1 @@
-Sample project to test JDBC connectivity from an AWS Lambda function
+Sample code to test JDBC connectivity from an AWS Lambda function
